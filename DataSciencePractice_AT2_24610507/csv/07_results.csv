@@ -1,0 +1,77 @@
+"category_name","supplier_region","units_in_stock","units_on_order","reorder_level"
+Beverages,Asia & Pacific,17,10,25
+Beverages,Asia & Pacific,15,10,30
+Condiments,Asia & Pacific,39,0,5
+Condiments,Asia & Pacific,24,0,5
+Condiments,Asia & Pacific,27,0,15
+Confections,Asia & Pacific,29,0,10
+Grains/Cereals,Asia & Pacific,26,0,0
+Grains/Cereals,Asia & Pacific,38,0,25
+Meat/Poultry,Asia & Pacific,29,0,0
+Meat/Poultry,Asia & Pacific,0,0,0
+Produce,Asia & Pacific,35,0,0
+Produce,Asia & Pacific,4,20,5
+Produce,Asia & Pacific,20,0,10
+Seafood,Asia & Pacific,31,0,0
+Seafood,Asia & Pacific,42,0,0
+Seafood,Asia & Pacific,24,0,5
+Beverages,Europe,69,0,5
+Beverages,Europe,39,0,10
+Beverages,Europe,17,0,15
+Beverages,Europe,57,0,20
+Beverages,Europe,125,0,25
+Beverages,Europe,17,40,25
+Condiments,Europe,32,0,15
+Condiments,Europe,13,70,25
+Confections,Europe,40,0,0
+Confections,Europe,15,0,0
+Confections,Europe,36,0,0
+Confections,Europe,3,40,5
+Confections,Europe,25,0,5
+Confections,Europe,6,10,15
+Confections,Europe,10,60,15
+Confections,Europe,15,70,25
+Confections,Europe,65,0,30
+Confections,Europe,76,0,30
+Confections,Europe,49,0,30
+Dairy Products,Europe,79,0,0
+Dairy Products,Europe,86,0,0
+Dairy Products,Europe,26,0,0
+Dairy Products,Europe,14,0,0
+Dairy Products,Europe,19,0,0
+Dairy Products,Europe,26,0,15
+Dairy Products,Europe,112,0,20
+Dairy Products,Europe,0,70,20
+Dairy Products,Europe,9,40,25
+Dairy Products,Europe,22,30,30
+Grains/Cereals,Europe,36,0,20
+Grains/Cereals,Europe,61,0,25
+Grains/Cereals,Europe,104,0,25
+Grains/Cereals,Europe,21,10,30
+Grains/Cereals,Europe,22,80,30
+Meat/Poultry,Europe,0,0,0
+Produce,Europe,26,0,0
+Seafood,Europe,95,0,0
+Seafood,Europe,101,0,5
+Seafood,Europe,5,70,15
+Seafood,Europe,10,0,15
+Seafood,Europe,62,0,20
+Seafood,Europe,112,0,20
+Seafood,Europe,11,50,25
+Beverages,North America,52,0,10
+Beverages,North America,20,0,15
+Beverages,North America,111,0,15
+Condiments,North America,53,0,0
+Condiments,North America,76,0,0
+Condiments,North America,0,0,0
+Condiments,North America,6,0,0
+Condiments,North America,4,100,20
+Condiments,North America,113,0,25
+Condiments,North America,120,0,25
+Confections,North America,17,0,0
+Meat/Poultry,North America,21,0,10
+Meat/Poultry,North America,115,0,20
+Produce,North America,15,0,10
+Seafood,North America,85,0,10
+Seafood,North America,123,0,30
+Beverages,South America,20,0,0
